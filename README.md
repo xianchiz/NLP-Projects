@@ -1,4 +1,5 @@
 ## NLP-Projects
 ## Content
-* [Document Vectors](https://github.com/xianchiz/NLP-Projects/tree/main/Document_Vectors) 
+* [Document Vectors](https://github.com/xianchiz/NLP-Projects/tree/main/Document_Vectors)
+* [Regular Expressions](https://github.com/xianchiz/NLP-Projects/tree/main/Regular%20Expressions)
 * This project is from Patrick's IDS 703 at Duke. 
