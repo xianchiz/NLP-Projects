@@ -1,6 +1,3 @@
 ## NLP-Projects
 ## Content
-* Raw counts of terms
-* TF-IDF weighting
-* PMI
-* This project is from Patrick's 703 class at Duke. 
+[Document Vectors] (https://github.com/xianchiz/NLP-Projects/tree/main/Document_Vectors) 
